@@ -1,0 +1,16 @@
+body {
+    font-family: 'Open Sans', 'San Francisco', 'Nimbus Sans', 'Helvetica', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 400;
+}
+.jumbotron {
+    background-color: #3EA2BB;
+    color: #fff;
+}
+h1, h2 {
+    font-weight: 300;
+}
+a {
+    color: #0E82A0;
+}
